@@ -1,0 +1,19 @@
+{
+  "name": "rockedu",
+  "version": "1.0.0",
+  "description": "ROckEdu is the E-Learning Platform of wide range of courses, each student can also become an mentor for other students in order to improve the slow learners also.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamkiGanesh007/RockEdu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamkiGanesh007/RockEdu/issues"
+  },
+  "homepage": "https://github.com/RamkiGanesh007/RockEdu#readme"
+}
