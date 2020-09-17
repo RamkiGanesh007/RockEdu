@@ -1,1 +1,3 @@
-ROckEdu is the E-Learning Platform of wide range of courses, each student can also become an mentor for other students in order to improve the slow learners also.
+ROckEdu is the E-Learning Platform of wide range of courses, 
+each student can also become an mentor for other students in order to improve the slow learners also.
+This Project will be done with MERN Stack .
